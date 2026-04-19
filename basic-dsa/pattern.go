@@ -24,3 +24,10 @@ func PrintPattern(n int) {
 		numberOfStars += 2
 	}
 }
+
+//It is expected to print this pattern
+//         *
+//       * ! *
+//     * ! * ! *
+//   * ! * ! * ! *
+// * ! * ! * ! * ! *
