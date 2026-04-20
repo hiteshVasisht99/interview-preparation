@@ -1,9 +1,10 @@
 package main
 
 import (
+	"fmt"
 	basicdsa "interview/basic-dsa"
 )
 
 func main() {
-	basicdsa.ReverseAndRotate([]int{1, 2, 3, 4, 5, 6, 7}, 4)
+	fmt.Println(basicdsa.ProductOfArrayExceptSelf([]int{1, 2, 3, 4}))
 }
