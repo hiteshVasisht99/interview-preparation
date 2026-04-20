@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	basicdsa.PrintPattern(5)
+	basicdsa.PrintFibonacci(5)
 }
