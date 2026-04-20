@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	basicdsa.PrintFibonacci(5)
+	basicdsa.ReverseAndRotate([]int{1, 2, 3, 4, 5, 6, 7}, 4)
 }
